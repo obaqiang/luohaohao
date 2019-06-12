@@ -1,0 +1,26 @@
+
+.DetailsOfDocumentsHead_head_area.data-v-f00a2ff4 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	width: 750rpx;
+	align-items: center;
+	height: 80rpx;
+	background: #FFFFFF;
+}
+.head_right_text.data-v-f00a2ff4 {
+	margin-right: 10rpx;
+}
+.DetailsOfDocumentsHead_head_text.data-v-f00a2ff4 {
+	margin-left: 10rpx;
+}
+

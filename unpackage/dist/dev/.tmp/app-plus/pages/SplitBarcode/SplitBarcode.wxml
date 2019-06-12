@@ -1,0 +1,2 @@
+<import src="./SplitBarcode.vue.wxml" />
+    <template is="e92f277c" data="{{ ...$root['0'], $root }}"/>

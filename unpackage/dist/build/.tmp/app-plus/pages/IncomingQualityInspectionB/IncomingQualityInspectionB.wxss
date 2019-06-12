@@ -1,0 +1,448 @@
+
+.QualityInspectionOperation_area {
+	background: #FFFFFF;
+	width: 700rpx;
+	display: block;
+	margin: 0 25rpx 125rpx;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	padding-bottom: 30rpx;
+}
+.QualityInspectionOperation_title {
+	font-size: 28rpx;
+	font-weight: bold;
+	border-bottom: 1rpx solid #DDDDDD;
+	line-height: 72rpx;
+	padding-left: 30rpx;
+}
+.QualityInspectionOperation_a {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding-left: 40rpx;
+	height: 72rpx;
+}
+.QualityInspectionOperation_in {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 72rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.QualityInspectionOperation_input {
+	border: 1rpx solid #DDDDDD;
+	-webkit-border-radius: 4rpx;
+	        border-radius: 4rpx;
+	text-align: center;
+	padding: 0;
+	width: 150rpx;
+}
+.QualityInspectionOperation_in_list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	font-size: 25rpx;
+}
+.QualityInspectionOperation_in_list text:nth-child(1) {
+	text-align: right;
+	width: 150rpx;
+	margin-right: 20rpx;
+	font-size: 25rpx;
+}
+.QualityInspectionOperation_table {
+	width: 650rpx;
+	border: 1rpx solid #d7d7dd;
+	margin: 20rpx auto;
+	-webkit-border-radius: 4rpx;
+	        border-radius: 4rpx;
+}
+.QualityInspectionOperation_table_head {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background: #ededf3;
+	height: 72rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.QualityInspectionOperation_table_head text {
+	width: 210rpx;
+	text-align: center;
+	font-size: 26rpx;
+}
+.QualityInspectionOperation_table_body {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background: #ffffff;
+	height: 72rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-bottom: 1rpx solid #DDDDDD;
+}
+.QualityInspectionOperation_table_body text {
+	width: 210rpx;
+	text-align: center;
+	font-size: 26rpx;
+}
+.QualityInspectionOperation_foot {
+	height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-size: 25rpx;
+	margin-top: 50rpx;
+}
+.QualityInspectionOperation_foot text:nth-child(1) {
+	margin-left: 100rpx;
+}
+.QualityInspectionOperation_foot text:nth-child(2) {
+
+	padding: 20rpx 40rpx;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	margin-left: 30rpx;
+}
+.QualityInspectionOperation_foot text:nth-child(3) {
+	padding: 20rpx 40rpx;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	margin-left: 30rpx;
+	color: red;
+}
+.QualityInspectionOperation_foot_on {
+	background: #FFB700;
+	font-size: 25rpx;
+}
+.QualityInspectionOperation_in_list_text {
+	width: 150rpx;
+	text-align: center;
+	border: 1rpx solid #DDDDDD;
+	height: 52.5rpx;
+	line-height: 50rpx;
+}
+.AcceptanceStandard_list {
+	width: 650rpx;
+	margin: auto;
+	overflow: hidden;
+}
+.AcceptanceStandard_bl {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	border: 1rpx solid #ededf3;
+	width: 260rpx;
+	-webkit-border-radius: 4rpx;
+	        border-radius: 4rpx;
+	float: left;
+	margin: 25rpx;
+	font-size: 25rpx;
+}
+.AcceptanceStandard_bl view:nth-child(1) {
+	background: #ededf3;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 54rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	font-size: 25rpx;
+	width: 260rpx;
+}
+.AcceptanceStandard_bl view:nth-child(2) {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 54rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	font-size: 25rpx;
+	width: 260rpx;
+}
+.QualityInspectionOperationB_list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	background: rgb(254, 239, 208);
+	height: 100rpx;
+	font-size: 25rpx;
+}
+.QualityInspectionOperationB_list input {
+	border: 1rpx solid #DDDDDD;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	width: 200rpx;
+	background: #FFFFFF;
+	height: 80rpx;
+	margin: 20rpx;
+	text-align: center;
+	font-size: 25rpx;
+}
+.QualityInspectionOperationB_list view:nth-child(3) {
+	background: #FF7200;
+	padding: 10rpx 40rpx;
+	color: #FFFFFF;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	font-size: 25rpx;
+}
+.err_code_table {
+	width: 90%;
+	margin: 20rpx auto;
+	-webkit-border-radius: 5rpx;
+	        border-radius: 5rpx;
+}
+.err_code_head {
+	background: #F2F2F2;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 70rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	/* justify-content: space-between; */
+}
+.err_code_head text {
+	width: 33%;
+	text-align: center;
+}
+.err_code_body {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	border-bottom: 1rpx solid #DDDDDD;
+	height: 70rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.err_code_body text {
+	width: 33%;
+	text-align: center;
+}
+.err_code_body input {
+	text-align: center;
+}
+
+
+.RecordModal_show_modal_mask {
+	width: 100%;
+	height: 100%;
+	background: #000000;
+	opacity: 0.2;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 2;
+}
+.RecordModal_show_modal_area {
+	position: fixed;
+	width: 80%;
+	left: 10%;
+	z-index: 2;
+	background: #FFFFFF;
+	top: 300rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+}
+.RecordModal_show_modal_header {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	height: 100rpx;
+}
+.RecordModal_show_modal_body {
+	min-height: 100rpx;
+}
+.RecordModal_show_modal_footer {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-justify-content: space-around;
+	    -ms-flex-pack: distribute;
+	        justify-content: space-around;
+	width: 100%;
+	margin-bottom: 20rpx;
+	margin-top: 20rpx;
+}
+.RecordModal_show_modal_footer_btn_right {
+	background: #FF7200;
+	color: #FFFFFF;
+	font-size: 25rpx;
+	width: 200rpx;
+}
+.RecordModal_show_modal_footer_btn_left_a {
+	font-size: 25rpx;
+	width: 150rpx;
+	background: #cb2920;
+	color: #ffffff;
+}
+.RecordModal_show_modal_footer_btn_left_b {
+	font-size: 25rpx;
+	width: 150rpx;
+}
+.RecordModal_show_modal_footer_btn_left_c {
+	background: #FF7200;
+	color: #FFFFFF;
+	font-size: 25rpx;
+	width: 150rpx;
+}
+.RecordModal_show_modal_footer_btn_left {
+	font-size: 25rpx;
+	width: 200rpx;
+}
+.RecordModal_show_modal_body_list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-size: 25rpx;
+	line-height: 60rpx;
+}
+.RecordModal_show_modal_body_list_new {
+	padding-left: 30rpx;
+}
+.RecordModal_show_modal_body_list_new text {
+	border: 1rpx solid #DDDDDD;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	padding: 10rpx 20rpx;
+	margin: 10rpx;
+}
+.IncomingQualityInspectionBPlusModal_ok {
+	background: #FFB700;
+	color: #FFFFFF;
+}
+.RecordModal_show_modal_body_list text:nth-child(1) {
+	width: 130rpx;
+	text-align: right;
+}
+.RecordModal_show_modal_body_list text:nth-child(2) {
+	margin-left: 50rpx;
+}
+.RecordModal_show_modal_body_list_input {
+	margin-left: 50rpx;
+	border: 1rpx solid #dddddd;
+	-webkit-border-radius: 10rpx;
+	        border-radius: 10rpx;
+	padding-left: 10rpx;
+}
+.RecordModal_show_modal_body_list_input:hover {
+	border: 1rpx solid #FFB700 !important;
+}
+.IncomingQualityInspectionBPlusModal_picker {
+	padding-left: 20rpx;
+}
+.ali_close_icon {
+	position: absolute;
+	top: 10rpx;
+	right: 10rpx;
+	width: 50rpx;
+	height: 50rpx;
+}
+
+
+page {
+	background: #e7e7e7;
+	padding-bottom: 150rpx;
+}
+

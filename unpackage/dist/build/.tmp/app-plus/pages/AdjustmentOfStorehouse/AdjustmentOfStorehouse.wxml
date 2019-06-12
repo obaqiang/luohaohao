@@ -1,0 +1,2 @@
+<import src="./AdjustmentOfStorehouse.vue.wxml" />
+    <template is="9c4d263c" data="{{ ...$root['0'], $root }}"/>

@@ -1,0 +1,2 @@
+<import src="./SpotScanOut.vue.wxml" />
+    <template is="58132ba2" data="{{ ...$root['0'], $root }}"/>

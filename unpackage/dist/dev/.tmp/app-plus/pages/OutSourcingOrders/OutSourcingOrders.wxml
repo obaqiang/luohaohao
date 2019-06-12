@@ -1,0 +1,2 @@
+<import src="./OutSourcingOrders.vue.wxml" />
+    <template is="1ad3e3da" data="{{ ...$root['0'], $root }}"/>

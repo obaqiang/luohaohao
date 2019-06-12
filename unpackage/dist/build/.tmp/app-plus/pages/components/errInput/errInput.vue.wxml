@@ -1,0 +1,1 @@
+<template name="38e9233a"><view class="_view M38e9233a"><input type="number" value="{{val}}" bindinput="handleProxy" style="text-align: center;" data-eventid="{{'38e9233a-0'}}" data-comkey="{{$k}}" class="_input M38e9233a" /></view></template>

@@ -1,0 +1,1 @@
+<template name="5f6712c3"><view class="_view M5f6712c3 mes_area"><view class="_view M5f6712c3 mes_list"><text class="_text M5f6712c3">{{i18n.mes_list_b}}:</text><text class="_text M5f6712c3">{{storageQty}}</text></view></view></template>

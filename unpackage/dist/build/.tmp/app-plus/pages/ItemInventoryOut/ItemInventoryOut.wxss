@@ -1,0 +1,75 @@
+
+.ItemInventoryOutHeadInfo_area {
+	padding-top: 50rpx;
+}
+.ItemInventoryOutHeadInfo_list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	font-size: 25rpx;
+}
+.ItemInventoryOutHeadInfo_list text:nth-child(1) {
+	width: 40%;
+	text-align: center;
+}
+.ItemInventoryOutHeadInfo_list text:nth-child(2) {
+	width: 60%;
+	text-align: left;
+}
+
+
+.ItemInventoryOutBodyInfo_th {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.ItemInventoryOutBodyInfo_line_a {
+	width: 15%;
+	text-align: center;
+	font-size: 25rpx;
+}
+.ItemInventoryOutBodyInfo_line_b {
+	width: 35%;
+	text-align: center;
+	font-size: 25rpx;
+}
+.ItemInventoryOutBodyInfo_line_c {
+	width: 25%;
+	text-align: center;
+	font-size: 25rpx;
+}
+.ItemInventoryOutBodyInfo_line_d {
+	width: 25%;
+	text-align: center;
+	font-size: 25rpx;
+}
+.ItemInventoryOutBodyInfo_tb {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	line-height: 100rpx;
+}
+.ItemInventoryOutBodyInfo_tb_a {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.ItemInventoryOutBodyInfo_tb_b {
+	background: #fbfbfb;
+	padding-left: 50rpx;
+	font-size: 25rpx;
+}
+

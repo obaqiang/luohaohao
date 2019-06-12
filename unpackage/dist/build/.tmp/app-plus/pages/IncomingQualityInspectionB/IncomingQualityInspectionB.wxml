@@ -1,0 +1,2 @@
+<import src="./IncomingQualityInspectionB.vue.wxml" />
+    <template is="b16866bc" data="{{ ...$root['0'], $root }}"/>

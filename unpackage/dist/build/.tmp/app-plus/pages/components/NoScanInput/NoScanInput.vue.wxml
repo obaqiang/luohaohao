@@ -1,0 +1,1 @@
+<template name="30627bdd"><view class="_view M30627bdd body_list"><text class="_text M30627bdd text_a">{{scan_input_text}}:</text><view class="_view M30627bdd text_right_area"><input class="_input M30627bdd text_right_input" type="text" placeholder="{{placeholder_text}}" /></view></view></template>

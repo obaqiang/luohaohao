@@ -1,0 +1,328 @@
+
+.QualityInspectionOperation_area {
+	background: #FFFFFF;
+	width: 700rpx;
+	display: block;
+	margin: 0 25rpx 125rpx;
+	border-radius: 10rpx;
+	padding-bottom: 30rpx;
+}
+.QualityInspectionOperation_title {
+	font-size: 28rpx;
+	font-weight: bold;
+	border-bottom: 1rpx solid #DDDDDD;
+	line-height: 72rpx;
+	padding-left: 30rpx;
+}
+.QualityInspectionOperation_a {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding-left: 40rpx;
+	height: 72rpx;
+}
+.QualityInspectionOperation_in {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 72rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.QualityInspectionOperation_input {
+	border: 1rpx solid #DDDDDD;
+	border-radius: 4rpx;
+	text-align: center;
+	padding: 0;
+}
+.QualityInspectionOperation_in_list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.QualityInspectionOperation_in_list text:nth-child(1) {
+	text-align: right;
+	width: 150rpx;
+	margin-right: 20rpx;
+}
+.QualityInspectionOperation_table {
+	width: 650rpx;
+	border: 1rpx solid #d7d7dd;
+	margin: 20rpx auto;
+	border-radius: 4rpx;
+}
+.QualityInspectionOperation_table_head {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background: #ededf3;
+	height: 72rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.QualityInspectionOperation_table_head text {
+	width: 210rpx;
+	text-align: center;
+	font-size: 26rpx;
+}
+.QualityInspectionOperation_table_body {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	background: #ffffff;
+	height: 72rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	border-bottom: 1rpx solid #DDDDDD;
+}
+.QualityInspectionOperation_table_body text {
+	width: 210rpx;
+	text-align: center;
+	font-size: 26rpx;
+}
+.QualityInspectionOperation_foot {
+	height: 100rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	font-size: 28rpx;
+	margin-top: 50rpx;
+}
+.QualityInspectionOperation_foot text:nth-child(1) {
+	margin-left: 100rpx;
+}
+.QualityInspectionOperation_foot text:nth-child(2) {
+
+	padding: 20rpx 40rpx;
+	border-radius: 10rpx;
+	margin-left: 30rpx;
+}
+.QualityInspectionOperation_foot text:nth-child(3) {
+	padding: 20rpx 40rpx;
+	border-radius: 10rpx;
+	margin-left: 30rpx;
+}
+.QualityInspectionOperation_foot_on {
+	background: #FFB700;
+}
+.QualityInspectionOperation_in_list_text {
+	width: 150rpx;
+	text-align: center;
+}
+.AcceptanceStandard_list {
+	width: 650rpx;
+	margin: auto;
+	overflow: hidden;
+}
+.AcceptanceStandard_bl {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	border: 1rpx solid #ededf3;
+	width: 160rpx;
+	border-radius: 4rpx;
+	float: left;
+	margin: 25rpx;
+}
+.AcceptanceStandard_bl view:nth-child(1) {
+	background: #ededf3;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 54rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	font-size: 26rpx;
+	width: 160rpx;
+}
+.AcceptanceStandard_bl view:nth-child(2) {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 54rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	font-size: 26rpx;
+	width: 160rpx;
+}
+.QualityInspectionOperationB_list {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	background: rgb(254, 239, 208);
+	height: 100rpx;
+}
+.QualityInspectionOperationB_list input {
+	border: 1rpx solid #DDDDDD;
+	border-radius: 10rpx;
+	width: 200rpx;
+	background: #FFFFFF;
+	height: 80rpx;
+	margin: 20rpx;
+	text-align: center;
+}
+.QualityInspectionOperationB_list view:nth-child(3) {
+	background: #FF7200;
+	padding: 10rpx 40rpx;
+	color: #FFFFFF;
+	border-radius: 10rpx;
+}
+.QualityInspectionOperatioMRP_result {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding: 0 50rpx;
+	border-top: 1rpx solid #DDDDDD;
+	border-bottom: 1rpx solid #DDDDDD;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	height: 100rpx;
+}
+.QualityInspectionOperatioMRP_result text:not(:first-child) {
+	border: 1rpx solid #DDDDDD;
+	padding: 10rpx 20rpx;
+	border-radius: 10rpx;
+}
+.QualityInspectionOperatioMRP_result_in {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+	padding: 0 50rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	height: 100rpx;
+}
+.QualityInspectionOperatioMRP_result_remark {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 0 50rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	height: 100rpx;
+}
+.QualityInspectionOperatioMRP_result_remark text {
+	width: 100rpx;
+	text-align: right;
+	padding-right: 50rpx;
+}
+.QualityInspectionOperatioMRP_result_remark input {
+	border: 1rpx solid #DDDDDD;
+	border-radius: 10rpx;
+	padding: 5rpx 10rpx;
+}
+.QualityInspectionOperatioMRP_on {
+	border-color: #FFB700 !important;
+	color: #FFB700 !important;
+}
+.QualityInspectionOperatioMRP_result_in_input {
+	text-align: center;
+	border: 1rpx solid #DDDDDD;
+	width: 300rpx;
+	border-radius: 5rpx;
+	padding: 5rpx 0;
+}
+.QualityInspectionOperatioMRP_result_in_input input {
+	text-align: center;
+	border: 1rpx solid #DDDDDD !important;
+	width: 300rpx;
+	border-radius: 5rpx;
+	height: 52.5rpx;
+	line-height: 52.5rpx;
+	padding: 0;
+}
+.QualityInspectionOperatioMRP_result_in_text {
+	border: 1rpx solid #DDDDDD !important;
+	width: 300rpx !important;
+	display: block;
+	text-align: center;
+	border-radius: 5rpx;
+	height: 52.5rpx;
+	line-height: 52.5rpx;
+	padding: 0 !important;
+}
+
+
+page {
+	background: #e7e7e7;
+}
+

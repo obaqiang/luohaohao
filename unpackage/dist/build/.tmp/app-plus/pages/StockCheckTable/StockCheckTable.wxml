@@ -1,0 +1,2 @@
+<import src="./StockCheckTable.vue.wxml" />
+    <template is="df286608" data="{{ ...$root['0'], $root }}"/>

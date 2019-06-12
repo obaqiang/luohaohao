@@ -1,0 +1,1 @@
+<template name="45e96b27"><view class="_view M45e96b27 bottomCountArea_area"><view wx:if="{{count!=''}}" class="_view M45e96b27">{{i18n.text_a}}{{count}}{{i18n.text_b}}</view><view wx:if="{{count==''}}" class="_view M45e96b27">{{i18n.text_c}}</view></view></template>

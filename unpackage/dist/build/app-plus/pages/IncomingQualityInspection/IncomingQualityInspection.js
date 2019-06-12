@@ -1,0 +1,2 @@
+setCssToHead(["body { background: #e7e7e7; padding-bottom: ",[0,150],"; }\n",],undefined,{path:"./pages/IncomingQualityInspection/IncomingQualityInspection.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/IncomingQualityInspection/IncomingQualityInspection.wxml') } }));

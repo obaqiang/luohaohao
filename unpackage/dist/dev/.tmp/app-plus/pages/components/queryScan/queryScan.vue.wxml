@@ -1,0 +1,1 @@
+<template name="b14bc062"><view class="_view Mb14bc062"><image class="_image Mb14bc062 query_scan" src="{{query_scan}}" bindtap="handleProxy" data-eventid="{{'b14bc062-0'}}" data-comkey="{{$k}}"></image></view></template>

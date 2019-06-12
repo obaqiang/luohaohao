@@ -1,0 +1,2 @@
+<import src="./WarehousingReceipts.vue.wxml" />
+    <template is="00c3510c" data="{{ ...$root['0'], $root }}"/>
